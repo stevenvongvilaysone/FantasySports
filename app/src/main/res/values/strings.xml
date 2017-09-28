@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FantasySports</string>
+    <string name="lblUsername">Username</string>
+    <string name="lblPassword">Password</string>
+    <string name="lblNewPassword">New Password</string>
+    <string name="lblConfirmPassword">Confirm Password</string>
+</resources>
